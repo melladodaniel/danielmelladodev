@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/danielmelladodev/static/css/main.073c9b0a.css",
-    "main.js": "/danielmelladodev/static/js/main.0dd62583.js",
-    "static/js/787.dc534141.chunk.js": "/danielmelladodev/static/js/787.dc534141.chunk.js",
-    "static/media/logo.svg": "/danielmelladodev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/danielmelladodev/index.html",
-    "main.073c9b0a.css.map": "/danielmelladodev/static/css/main.073c9b0a.css.map",
-    "main.0dd62583.js.map": "/danielmelladodev/static/js/main.0dd62583.js.map",
-    "787.dc534141.chunk.js.map": "/danielmelladodev/static/js/787.dc534141.chunk.js.map"
+    "main.css": "/danielmellado.dev/static/css/main.073c9b0a.css",
+    "main.js": "/danielmellado.dev/static/js/main.bd953d95.js",
+    "static/js/787.dc534141.chunk.js": "/danielmellado.dev/static/js/787.dc534141.chunk.js",
+    "static/media/logo.svg": "/danielmellado.dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/danielmellado.dev/index.html",
+    "main.073c9b0a.css.map": "/danielmellado.dev/static/css/main.073c9b0a.css.map",
+    "main.bd953d95.js.map": "/danielmellado.dev/static/js/main.bd953d95.js.map",
+    "787.dc534141.chunk.js.map": "/danielmellado.dev/static/js/787.dc534141.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0dd62583.js"
+    "static/js/main.bd953d95.js"
   ]
 }
